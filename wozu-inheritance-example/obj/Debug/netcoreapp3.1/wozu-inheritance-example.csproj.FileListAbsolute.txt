@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.exe
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.deps.json
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.runtimeconfig.json
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.dll
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\bin\Debug\netcoreapp3.1\wozu-inheritance-example.pdb
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.AssemblyInfo.cs
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.dll
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.pdb
+C:\Users\Matt\source\repos\wozu-inheritance-example\wozu-inheritance-example\obj\Debug\netcoreapp3.1\wozu-inheritance-example.genruntimeconfig.cache
